@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-first-repostory",
+=======
+  "name": "my-first-repository",
+>>>>>>> parent of 35bfa8a (Update package.json)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
